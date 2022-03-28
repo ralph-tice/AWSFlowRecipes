@@ -1,3 +1,4 @@
+Superceded by https://github.com/tongueroo/AWSFlowFrameworkRecipes
 
 This is not canonical, but a mirror from http://aws.amazon.com/code/2535278400103493?ref_=pe_12300_26837160
 
